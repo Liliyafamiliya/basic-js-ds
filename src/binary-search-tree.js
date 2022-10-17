@@ -44,6 +44,16 @@ class BinarySearchTree {
   }
 }
 
+// const tree = {
+//   node1: {
+//     node3: {
+//       node5: 'value2'
+//     },
+//     node4: 'value1'
+//   },
+//   node2: { },
+// }
+
 module.exports = {
   BinarySearchTree
 };
